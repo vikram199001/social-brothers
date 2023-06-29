@@ -1,4 +1,4 @@
-# GOFORMOVIES
+# Social brothers
 
 ### Introduction
 this is a test app which contains three pages home page for listing movies according to categories, List page for watchlist and favorite List movies, and a detail movie page for the movie details.
