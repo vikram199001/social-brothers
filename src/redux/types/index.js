@@ -1,0 +1,6 @@
+export const GET_TOP_BLOGS = "GET_TOP_BLOGS";
+export const GET_SEARCH_BLOGS = "GET_SEARCH_BLOGS";
+export const GET_CATEGORIES = "GET_CATEGORIES";
+export const ADD_BLOG = "ADD_BLOG";
+
+export const GET_ARCHIVE_BLOGS = "GET_ARCHIVE_BLOGS";
